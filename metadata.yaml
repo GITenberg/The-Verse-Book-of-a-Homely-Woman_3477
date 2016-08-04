@@ -1,0 +1,36 @@
+_repo: The-Verse-Book-of-a-Homely-Woman_3477
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Inchfawn, Fay
+    alias: Ward, Elizabeth Rebecca
+    birthdate: 1880
+    gutenberg_agent_id: '1208'
+    url: http://www.gutenberg.org/2009/agents/1208
+description: ''
+gutenberg_issued: '2002-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3477'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Housewives -- Poetry'
+- !lcsh 'English poetry'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The long view -- Within my house -- The housewife -- To mother --
+  In such an hour -- The daily interview -- The little house -- The house-mother --
+  A woman in hospital -- In convalescence -- Homesick -- On washing day -- When baby
+  strayed -- If only... -- Listening -- The dear folks in Devon -- The reason -- Two
+  women -- The prize fight -- The home lights -- To an old teapot -- To a rebellious
+  daughter -- For mothering! -- Little fan -- The naughty day -- To a little white
+  bird -- Because -- When he comes -- Early spring -- The witness -- In Somerset --
+  Song of a woodland stream -- Luggage in advance -- At the cross roads -- Summer
+  met me -- The carrier -- The lad's love by the gate -- The thrush -- In Dorset dear
+  -- The flight of the fairies -- The street player -- On All Soul's Eve -- The log
+  fire -- God save the king.
+title: The Verse-Book of a Homely Woman
+url: http://www.gutenberg.org/ebooks/3477
